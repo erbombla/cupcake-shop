@@ -1,0 +1,23 @@
+.flashy  {
+  font-family: 'Poiret One', cursive;
+  color: #b20000;
+  font-style: italic;
+}
+
+.best {
+  font-size: 30px;
+  color: #00ffff;
+}
+
+.details {
+  position: relative;
+}
+
+ul,
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  border-radius: 50%;
+}
