@@ -1,31 +1,37 @@
 body {
- 	background-color: #FCFCFC;
+ 	background-color: #FEDC3D;
 	font-family: 'Lato', san-serif;
 	font-size:16px;
 	color: #000;
 }
 h1 {
-	font-family: 'Poiret One', cursive;
+	font-family: 'Lobster', cursive;
 	font-size: 75px;
-	color: #ff0000;
+	color: #000;
 }
 
 h3 {
-	color: #337ab7;
+	color: #FFF;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: #FFF;
 }
 
 .img-responsive {
 	display: block;
   margin: 0 auto;
 	width: 200px;
-	border: 2px solid #337ab7;
+	border: 3px solid #FEA680;
 	border-radius: 50%;
 }
 
 #main-container {
-	background-color: #d9edf7;
+	background-color: #01ABAA;
   border-radius: 50px;
-	border: 4px solid #337ab7;
+	border: 4px;
 	padding: 60px;
   margin-top: 60px;
   margin-bottom: 60px;
